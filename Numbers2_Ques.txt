@@ -1,0 +1,10 @@
+Find the average of 15, 16 and 20.
+The average of three numbers is 20. Find the sum of the three numbers.
+Arshad plays basketball. He has played three games so far. In the first game, he scored 10 points and in the second game, he scored 14 points. If his average score per game is 10 points, find out how many points he scored in the third game.
+A group of friends get an average pocket money of Rs 50 per day. If the total sum of money per day is Rs 250, how many friends are there in the group?
+The masses of three objects are 36g, 30g, and 45g. Find their average mass.
+One box can contain 24 oranges. Find out how many oranges can 15 such boxes contain.
+Allan buys 5 Kg of onions for Rs 80. How much will he pay for 8 Kg of onions?
+Three strawberries cost Rs 10. Find the cost of 12 strawberries.
+A tailor takes 4 hours to make 2 shirts. Find out how long he will need to make 10 shirts.
+In a recipe, 3 Kg of meat is needed to make a particular dish. The recipe is for 10 servings. How many servings will be obtained with 15 Kg of meat?

@@ -1,0 +1,25 @@
+1. Convert 420 cm into millimetres.
+2. Convert 400 cm into metres.
+3. A wooden stick is 27 cm 5 mm long. It is cut into five equal pieces. Find the length of each piece of the stick.
+4. Sandrine cuts 6 m 40 cm from a piece of cloth of length 17 m 80 cm. Calculate the length of the cloth.
+5. Anisha is 1 m 68 cm tall. Her sister Vanisha is 15 cm shorter. How tall is Vanisha?
+6. The perimeter of a square card is 36 cm. What is the length of one side of the card?
+7. The perimeter of a square blackboard is 144 cm. What is the length of one side?
+8. Find the perimeter of a rectangular hall 24 m long and 13 m wide.
+9. The perimeter of a square garden is 160 m. Find the length of one side of the garden.
+10. The perimeter of a square card is 16 cm. What is the length of one side?
+11. A rectangle has a length of 5 m and an area of 10 m^2. What is the width of the rectangle?
+12. A rectangular garden has an area of 840 m^2. Its length is 35 m. Find its width.
+13. A playground in the form of a square has sides 40 m each. Find its area.
+14. The area of a square stamp is 9 cm^2. What is the length of one side of the stamp?
+15. The area of a square poster is 2500 cm^2. Find the length of one side of the poster.
+16. A bottle contains 800 mL of juice. Pierre pours 250 mL more juice in it. How much juice is there now in the bottle?
+17. Rajen buys 12 L 50 cL of oil on Friday and 25 L 75 cL of oil on Saturday. How much oil does he buy in all?
+18. A seller sold 125 L 75 cL of milk on Friday. The next day he sold 219 L 40 cL of milk. How much less milk did he sell on Friday?
+19. A bottle contains 85 cL of water. 250 mL of concentrated juice is added to it. How much diluted juice is obtained? Give your answer in cL.
+20. A bottle contains 2 L 125 cL of water. How much water can 3 such bottles contain?
+21. Akhilesh has 20 kg 500 g of rice. He buys 30 kg 700 g more rice. What is the total mass of rice he has now?
+22. Jimmy weighs 55 kg 350 g. Jenny weighs 2 kg 500 g less than Jimmy. What is the mass of Jenny?
+23. A tin full of milk powder weighs 3 kg 250 g. The empty tin weighs 350 g. What is the mass of milk powder only?
+24. What is 7 kg 220 g in grams?
+25. A bag of flour weighs 2 kg 500 g. What is the total mass of seven such bags of flour?

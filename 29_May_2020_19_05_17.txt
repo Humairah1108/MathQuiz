@@ -1,0 +1,11 @@
+This file contains your performance during the quiz on Numbers One on Fri May 29 19:05:17 2020
+
+
+Name : Humairah
+Age   19
+Total Marks obtained: 8/10
+
+The questions that you have wrongly attempted are as follows.
+
+1. Find the difference between 24 568 and 12 346.
+2. Find the difference between the largest and the smallest number among the following: 5296, 6351, 3456, 79692, 3975.
